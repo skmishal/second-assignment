@@ -1,0 +1,62 @@
+.custom-font{
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+}
+.mainshoe{border: 0;}
+.infinity-run{
+    color:rgb(3, 11, 48)
+}
+.nike-react{
+    color: rgb(247, 102, 18);
+}
+.custom-card-image{
+    border-radius: 1em;
+    width: 90%;
+}
+.shoe-intro{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    margin-bottom: -40px;
+}
+.price{
+    color:  rgb(247, 102, 18);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.custom-card{
+    border-radius: 1em;
+}
+.card-style{
+    margin-top: 10px;
+    border-radius: 1em;
+    border: 0;
+    padding: 20px;
+}
+.service-img{
+    width: 50%;
+}
+
+#subscribe{
+    background-color: rgba(218, 196, 238, 0.432);
+    border-radius: 1em;
+}
+.submit-button{
+    background-color: rgb(204, 84, 228);
+    padding: 5px;
+    color: white;
+}
+.first-section{
+    background-color: rgba(247, 225, 238, 0.336);
+}
+.logo{
+    width: 40%;
+}
+.button{
+    background-color: blue;
+    color:white;
+    padding: 8px;
+    border-radius: 7px;
+}
+.button img{
+    width: 20%;
+}
